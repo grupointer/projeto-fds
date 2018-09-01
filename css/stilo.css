@@ -1,0 +1,39 @@
+body{
+    margin:0 auto;
+    background: url(../imagens/ceu.jpeg)
+}
+header{
+    width: 100vw;
+    height: 450px;
+    background: url(../imagens/banner.png);
+    background-position: center center; 
+}
+aside{
+    width: 30vw;
+background-color:;
+}
+footer{
+    width: 100vw;
+    height: 50px;
+    background-color:aquamarine;
+    clear: both;
+    bottom: 0px;
+}
+#maos{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+nav{
+    display: block;
+    float: right;
+}
+#banner {
+    width: 100vw;
+
+}
+
+#denuncia{
+    display: block;
+    float: right;
+}
