@@ -5,12 +5,14 @@ body{
 header{
     width: 100vw;
     height: 450px;
-    background: url(../imagens/banner.png);
+    background: url(../imagens/defender.jpg);
     background-position: center center; 
 }
 aside{
     width: 30vw;
-background-color:;
+    text-align:justify ;
+    margin-left: 30px;
+
 }
 footer{
     width: 100vw;
@@ -20,9 +22,9 @@ footer{
     bottom: 0px;
 }
 #maos{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    width: 200px;
+    height: 200px;
+    margin: 2px;
 }
 nav{
     display: block;
