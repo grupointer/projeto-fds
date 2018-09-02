@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: yellow;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carta1{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin:30px;
+}
+.carta2{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    border-radius: 10px;
+    margin:30px;
+
+}
+.carta3{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 10px;
+    margin:30px;
+}
